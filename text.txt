@@ -1,3 +1,7 @@
 Hello work
+<<<<<<< HEAD
 1. study git
+=======
+1. Học cách sử dụng git
+>>>>>>> hoc cach su dung git
 2. setting
